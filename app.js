@@ -42,3 +42,5 @@ app.post('/login', (req, res) => {
 	});
     
 })
+
+app.listen(3000);
